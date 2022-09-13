@@ -1,0 +1,79 @@
+{
+	"code": 0,
+	"data": {
+		"list": [{
+			"sub_count": 34371,
+			"ptype": "c1",
+			"price_market": 19900,
+			"ctime": 1504753266,
+			"pid": 100001901,
+			"groupbuy": 0,
+			"price": 6800,
+			"has_sub": false,
+			"price_type": 2,
+			"top_level": 0,
+			"in_pvip": 1
+		}, {
+			"sub_count": 30851,
+			"ptype": "c1",
+			"price_market": 29900,
+			"ctime": 1505117454,
+			"pid": 100002101,
+			"groupbuy": 0,
+			"price": 9800,
+			"has_sub": false,
+			"price_type": 2,
+			"top_level": 0,
+			"in_pvip": 1
+		}, {
+			"sub_count": 154289,
+			"ptype": "c1",
+			"price_market": 39900,
+			"ctime": 1505908992,
+			"pid": 100002201,
+			"groupbuy": 0,
+			"price": 9800,
+			"has_sub": false,
+			"price_type": 2,
+			"top_level": 0,
+			"in_pvip": 0
+		}, {
+			"sub_count": 37390,
+			"ptype": "c1",
+			"price_market": 12900,
+			"ctime": 1510226212,
+			"pid": 100002401,
+			"groupbuy": 0,
+			"price": 5900,
+			"has_sub": false,
+			"price_type": 2,
+			"top_level": 0,
+			"in_pvip": 1
+		}, {
+			"sub_count": 31494,
+			"ptype": "c1",
+			"price_market": 12900,
+			"ctime": 1510798837,
+			"pid": 100002601,
+			"groupbuy": 0,
+			"price": 5900,
+			"has_sub": false,
+			"price_type": 2,
+			"top_level": 0,
+			"in_pvip": 0
+		}],
+		"banner": {
+			"list": [],
+			"product": [],
+			"block_title": ""
+		},
+		"page": {
+			"count": 250
+		}
+	},
+	"error": {},
+	"extra": {
+		"cost": 0.058814155,
+		"request-id": "ab533fb372364d60a0bcef7619b06f04@2@time"
+	}
+}
